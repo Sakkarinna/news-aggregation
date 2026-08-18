@@ -1,0 +1,31 @@
+1. Admin
+The admin has the highest level of permissions and can manage all content and users.
+
+- Manage Articles:
+ Create, edit, and delete any article.
+ View a list of all articles.
+- Manage Categories:
+ Create, edit, and delete categories.
+ Assign categories to articles.
+- Manage Users:
+ View and manage user accounts (e.g., change roles, deactivate accounts).
+ Access Admin Dashboard:
+ Access a dedicated admin dashboard to oversee platform activities and analytics.
+2. User
+The user has permissions to engage with content, save articles, and customize their experience but cannot manage other users or perform admin-level tasks.
+
+- View Articles:
+ View a list of published articles and read individual articles.
+- Save Articles:
+ Save articles to their account for easy access later (like bookmarks).
+- Categorize Saved Articles:
+ Organize saved articles into categories or tags for easy retrieval.
+- User Profile Management:
+ Edit their own profile (e.g., update username, email).
+- Access Personal Dashboard:
+ Access a personal dashboard to view saved articles and preferences.
+3. Guest
+The guest has the most limited access, primarily allowing for content discovery without personalization or data manipulation.
+
+- View Articles:
+View a list of published articles and read individual articles.
